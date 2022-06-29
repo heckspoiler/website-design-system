@@ -36,6 +36,7 @@ html {
         width: 266px;
         margin-left: auto;
         margin-right: auto;
+        top: 40px;
         
   
     }
@@ -225,7 +226,6 @@ html {
     .main-content {
       display: flex;
       flex-wrap: nowrap;
-      margin-top: 5rem;
       justify-content: space-evenly;
     
     }
