@@ -29,6 +29,17 @@ html {
       width: 100%;
     }
     
+    #background-image-header {
+        position: relative;
+        background-image: url('https://i.postimg.cc/vZ7fsC3y/windows-logo.png');
+        height: 229px;
+        width: 266px;
+        margin-left: auto;
+        margin-right: auto;
+        
+  
+    }
+
     ul {
       list-style-type: none;
     }
@@ -111,7 +122,7 @@ html {
 /* upper content */
 
 .upper-content {
-    margin-top: 10em;
+    margin-top: 5em;
 }
 
     #main-text-link {
